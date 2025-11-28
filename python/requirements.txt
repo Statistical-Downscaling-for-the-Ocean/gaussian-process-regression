@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+xarray[io]
+scipy
+scikit-learn
+jupyterlab
+GPy
