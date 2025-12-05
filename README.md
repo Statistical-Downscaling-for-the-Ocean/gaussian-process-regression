@@ -34,3 +34,6 @@ Both Matlab and Python examples work a bit similarly:
 - The **intro lectures** from **[this](https://gpss.cc/gpss24/program)** Gaussian Process Summer School 2024 are really informative. 
 - The **Labs** from the 2025 summer school can be run online on a browser **[Lab 1: Gaussian Process Regression](https://colab.research.google.com/github/gpschool/gpss25/blob/gh-pages/labs/lab_1.ipynb#scrollTo=iXI-p5IKwzJv)**
 - Rasmussen and Williams in their book **[Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf)** tell you all you didn't know that you didn't know about GPR
+- Bessac et al. 2019 DOI: 10.1175/MWR-D-18-0384.1
+- another example: https://gist.github.com/ashao/4f9cf1b90d02aa97eee84bdfad705c11
+- https://d2l.ai/chapter_gaussian-processes/gp-priors.html
